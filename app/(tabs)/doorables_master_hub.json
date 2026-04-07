@@ -1,0 +1,205 @@
+[
+    {
+        "series_name": "Series 07",
+        "id": "series_07",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=18784768600",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Series_07",
+        "status": "active"
+    },
+    {
+        "series_name": "Series 08",
+        "id": "series_08",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=9134281620",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Series_08",
+        "status": "active"
+    },
+    {
+        "series_name": "Series 09",
+        "id": "series_09",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=11929920030",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Series_09",
+        "status": "active"
+    },
+    {
+        "series_name": "Series 10",
+        "id": "series_10",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=15060247500",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Series_10",
+        "status": "active"
+    },
+    {
+        "series_name": "Series 11",
+        "id": "series_11",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=14347674530",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Series_11",
+        "status": "active"
+    },
+    {
+        "series_name": "Series 12",
+        "id": "series_12",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=8036482780",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Series_12",
+        "status": "active"
+    },
+    {
+        "series_name": "Academy",
+        "id": "academy",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=3202611070",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Academy",
+        "status": "active"
+    },
+    {
+        "series_name": "Cars",
+        "id": "cars",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=9642620470",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Cars",
+        "status": "active"
+    },
+    {
+        "series_name": "Costume",
+        "id": "costume",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=20275814970",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Costume",
+        "status": "active"
+    },
+    {
+        "series_name": "Holiday",
+        "id": "holiday",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=643071820",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Holiday",
+        "status": "active"
+    },
+    {
+        "series_name": "Lets Go",
+        "id": "lets_go",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=18515857010",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Lets_Go",
+        "status": "active"
+    },
+    {
+        "series_name": "Lets Party",
+        "id": "lets_party",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=4626751610",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Lets_Party",
+        "status": "active"
+    },
+    {
+        "series_name": "Locker",
+        "id": "locker",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=12947487820",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Locker",
+        "status": "active"
+    },
+    {
+        "series_name": "Movie / Micro",
+        "id": "movie_/_micro",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=8052621620",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Movie_/_Micro",
+        "status": "active"
+    },
+    {
+        "series_name": "Neon",
+        "id": "neon",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=19631939230",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Neon",
+        "status": "active"
+    },
+    {
+        "series_name": "Peeks",
+        "id": "peeks",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=5625767080",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Peeks",
+        "status": "active"
+    },
+    {
+        "series_name": "Remember",
+        "id": "remember",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=18953249790",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Remember",
+        "status": "active"
+    },
+    {
+        "series_name": "Just Play",
+        "id": "just_play",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=20720860350",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Just_Play",
+        "status": "active"
+    },
+    {
+        "series_name": "Marvel",
+        "id": "marvel",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=7087121760",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Marvel",
+        "status": "active"
+    },
+    {
+        "series_name": "Squish",
+        "id": "squish",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=12236909210",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Squish",
+        "status": "active"
+    },
+    {
+        "series_name": "Star Wars",
+        "id": "star_wars",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=17109580710",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Star_Wars",
+        "status": "active"
+    },
+    {
+        "series_name": "Megas & Specials",
+        "id": "megas_&_specials",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=8827176830",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Megas_&_Specials",
+        "status": "active"
+    },
+    {
+        "series_name": "Series 03",
+        "id": "series_03",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=9662586440",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Series_03",
+        "status": "active"
+    },
+    {
+        "series_name": "Series 04",
+        "id": "series_04",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=7130939240",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Series_04",
+        "status": "active"
+    },
+    {
+        "series_name": "Series 05",
+        "id": "series_05",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=10041909670",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Series_05",
+        "status": "active"
+    },
+    {
+        "series_name": "Series 06",
+        "id": "series_06",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=2720920350",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Series_06",
+        "status": "active"
+    },
+    {
+        "series_name": "Village Peeks",
+        "id": "village_peeks",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=18636040200",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/Village_Peeks",
+        "status": "active"
+    },
+    {
+        "series_name": "In Full Bloom",
+        "id": "in_full_bloom",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=9970467170",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/In_Full_Bloom",
+        "status": "active"
+    },
+    {
+        "series_name": "ReReleases",
+        "id": "rereleases",
+        "live_data_url": "https://docs.google.com/spreadsheets/d/12Fqu8DNKILAAM6sN1MSGGVKXSKyz52zkdzQtHDgHMco/export?format=csv&gid=20207612320",
+        "wiki_url": "https://disney-doorables.fandom.com/wiki/ReReleases",
+        "status": "active"
+    }
+]

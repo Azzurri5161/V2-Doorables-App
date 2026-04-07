@@ -1,0 +1,125 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\noahv\OneDrive\Desktop\Custom Scripts and Apps\Doorables_Project_Hub\Data_Compiler> python audit_data.py
+--- DOORABLES BLACKLISTED AUDIT ---
+⏳ Scanning Series 07...
+✅ Real Table Found at row 3!
+   Headers: ['UID', 'Sort', 'Code', 'Type', 'Series', 'Sub-Series', 'Special', 'Characters', 'Series.1', 'Main: 7', 'Bag', 'Found', 'Rarity%']
+------------------------------
+⏳ Scanning Series 08...
+✅ Real Table Found at row 4!
+   Headers: ['UID', 'Sort', 'Code', 'Type', 'Series', 'Sub-Series', 'Special', 'Characters', 'Series', 'Main:8', 'Bag', 'Found', 'Rarity%', 'Limited Edition']
+------------------------------
+⏳ Scanning Series 09...
+✅ Real Table Found at row 2!
+   Headers: ['UID', 'Sort', 'Code', 'Type', 'Series', 'Sub-Series', 'Special', 'Characters', 'Series 9', 'Main: 9', 'Bag', 'Found', 'Rarity%', 'S9Types', 'Limited Editions']
+------------------------------
+⏳ Scanning Series 10...
+✅ Real Table Found at row 2!
+   Headers: ['UID', 'Sort', 'Code', 'Type', 'Series', 'Sub-Series', 'Special', 'Characters', 'Series 10', 'Main: 10', 'Bag', 'Found', 'Rarity%', 'S10Types', 'Limited Editions']
+------------------------------
+⏳ Scanning Series 11...
+✅ Real Table Found at row 2!
+   Headers: ['UID', 'Sort', 'Code', 'Type', 'Series', 'Sub-Series', 'Special', 'Characters', 'Series 11', 'Main: 11', 'Bag', 'Found', 'Rarity%', 'S11Types', 'Limited Editions']
+------------------------------
+⏳ Scanning Series 12...
+✅ Real Table Found at row 2!
+   Headers: ['UID', 'Sort', 'Code', 'Type', 'Series', 'Sub-Series', 'Special', 'Characters', 'Series 12', 'Main: 12', 'Bag', 'Found', 'Rarity%', 'S12Types', 'Limited Editions', 'Special Editon']
+------------------------------
+⏳ Scanning Academy...
+✅ Real Table Found at row 3!
+   Headers: ['UID', 'Sort', 'Code', 'Type', 'Series', 'Sub-Series', 'Special', 'Characters', 'Academy', 'Academy: 1', 'Bag', 'Found', 'Rarity%', 'AcademyTypes']
+------------------------------
+⏳ Scanning Cars...
+✅ Real Table Found at row 3!
+   Headers: ['UID', 'Sort', 'Code', 'Type', 'Series', 'Sub-Series', 'Special', 'Characters', 'Series.1', 'Lets Go Cars: 1', 'Bag', 'Cars']
+------------------------------
+⏳ Scanning Costume...
+✅ Real Table Found at row 3!
+   Headers: ['Name', 'Series', 'Rarity', 'Rarity.1', 'Primary', 'Codes', 'UID', 'Single']
+------------------------------
+⏳ Scanning Holiday...
+✅ Real Table Found at row 3!
+   Headers: ['Name', 'Primary', 'Rarity', 'UID', 'Codes', 'Single', 'Single.1']
+------------------------------
+⏳ Scanning Lets Go...
+✅ Real Table Found at row 3!
+   Headers: ['UID', 'Sort', 'Code', 'Type', 'Series', 'Sub-Series', 'Special', 'Characters', 'Series SubSeries', 'Series.1', 'Lets Go: 1', 'Bag', 'Sub', 'Cards']
+------------------------------
+⏳ Scanning Lets Party...
+✅ Real Table Found at row 3!
+   Headers: ['UID', 'Sort', 'Code', 'Type', 'Series', 'Sub-Series', 'Special', 'Characters', 'Lets Party', 'Lets Party: 1', 'Bag', 'Found', 'Rarity%', 'LpTypes', 'Limited Editions', 'SE', 'Ultra']
+------------------------------
+⏳ Scanning Locker...
+✅ Real Table Found at row 3!
+   Headers: ['Series - Name', 'Series', 'OG', 'Rarity', 'Primary', 'Series.1', 'UID', 'Bag#', 'Grams', 'OZs', 'Codes']
+------------------------------
+⏳ Scanning Movie / Micro...
+✅ Real Table Found at row 3!
+   Headers: ['Series - Name', 'Series', 'OG', 'Rarity', 'Primary', 'Series.1', 'UID', 'Bag#', 'Grams', 'OZs', 'Codes']
+------------------------------
+⏳ Scanning Neon...
+✅ Real Table Found at row 3!
+   Headers: ['UID', 'Sort', 'Code', 'Type', 'Series', 'Sub-Series', 'Special', 'Characters', 'Series.1', 'Neon: 1', 'Bag', 'Found', 'Rarity%']
+------------------------------
+⏳ Scanning Peeks...
+✅ Real Table Found at row 3!
+   Headers: ['Princess - Belle (Yellow)', '008', 'Name', 'Series', 'OG', 'Rarity', 'Primary', 'Secondary', 'UID', 'Bag#', 'Grams', 'OZs', 'Codes']
+------------------------------
+⏳ Scanning Remember...
+✅ Real Table Found at row 3!
+   Headers: ['UID', 'Sort', 'Code', 'Type', 'Series', 'Sub-Series', 'Special', 'Characters', 'Remember When', 'Remember When: 1', 'Bag', 'Found', 'Rarity%', 'ReTypes']
+------------------------------
+⏳ Scanning Just Play...
+✅ Real Table Found at row 3!
+   Headers: ['Stitch: 7 - Boba', '080', 'Name', 'Series', 'OG', 'Rarity', 'Primary', 'Secondary', 'UID', 'Bag#', 'Grams', 'OZs', 'Codes']
+------------------------------
+⏳ Scanning Marvel...
+✅ Real Table Found at row 3!
+   Headers: ['Name', 'Rarity', 'Primary', 'Series', 'Codes', 'Single']
+------------------------------
+⏳ Scanning Squish...
+✅ Real Table Found at row 3!
+   Headers: ['Name', 'Rarity', 'Series', 'Sub-Series', 'Codes']
+------------------------------
+⏳ Scanning Star Wars...
+✅ Real Table Found at row 3!
+   Headers: ['Name', 'Rarity', 'Series', 'Type', 'Typ', 'Codes', 'Star Wars', 'Bag', 'Found', 'Rarity%', 'SWTypes', 'Cruisers', 'Heros', 'Widescreen']
+------------------------------
+⏳ Scanning Megas & Specials...
+⚠️  Could not find a valid table (Skipped branding/junk).
+------------------------------
+⏳ Scanning Series 03...
+✅ Real Table Found at row 1!
+   Headers: ['Code', 'Character 1', 'Character 2', 'Character 3', 'Series', 'Main: 3']
+------------------------------
+⏳ Scanning Series 04...
+✅ Real Table Found at row 1!
+   Headers: ['Type', 'Code', 'Character1', 'Character2', 'Character3', 'Character4', 'Character5', 'Character6', 'Character7', 'Series', 'Main: 4']
+------------------------------
+⏳ Scanning Series 05...
+✅ Real Table Found at row 1!
+   Headers: ['Type', 'Code', 'Character1', 'Character2', 'Character3', 'Character4', 'Character5', 'Character6', 'Character7', 'Series', 'Main: 5', 'Bag Numbers']
+------------------------------
+⏳ Scanning Series 06...
+✅ Real Table Found at row 1!
+   Headers: ['Type', 'Code', 'Character1', 'Character2', 'Character3', 'Character4', 'Character5', 'Character6', 'Character7', 'Series', 'Main: 6', 'Bag']
+------------------------------
+⏳ Scanning Village Peeks...
+⚠️  Could not find a valid table (Skipped branding/junk).
+------------------------------
+⏳ Scanning Munchlings...
+✅ Real Table Found at row 15!
+   Headers: ['Code', 'Series', 'Type', 'Character 1', 'Character 2', 'Character 3', 'Character 4']
+------------------------------
+⏳ Scanning In Full Bloom...
+✅ Real Table Found at row 3!
+   Headers: ['UID', 'Sort', 'Code', 'Type', 'Series', 'Sub-Series', 'Special', 'Characters', 'In Full Bloom', 'In Full Bloom: 1', 'Bag', 'Found', 'Rarity%', 'ReTypes']
+------------------------------
+⏳ Scanning ReReleases...
+✅ Real Table Found at row 3!
+   Headers: ['Name', 'Series', 'Rarity', 'Rarity.1', 'Primary', 'Codes', 'UID', 'Single']
+------------------------------
